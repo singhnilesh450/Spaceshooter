@@ -28,7 +28,7 @@ class GameScreen implements Screen {
     GameScreen() {
 
         camera = new OrthographicCamera();
-        viewport = new StretchViewport(WORLD_WIDTH, WORLD_HEIGHT, camera);
+        viewport = new StretchViewport(WORLD_WIDTH, WORLD_HEIGHT, camera);//hjnmkk
 
         background = new Texture("darkPurpleStarscape.png");
         backgroundOffset = 0;
