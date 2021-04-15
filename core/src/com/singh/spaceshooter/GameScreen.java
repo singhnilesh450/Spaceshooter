@@ -67,15 +67,12 @@ class GameScreen implements Screen {
     public void resume() {
 
     }
-
     @Override
     public void hide() {
 
     }
-
     @Override
     public void show() {
-
     }
 
     @Override
