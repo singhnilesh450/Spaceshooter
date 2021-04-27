@@ -10,7 +10,9 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 public class Spaceshooter extends Game {
 
 	GameScreen gameScreen;
-
+///////
+	//////
+	    ///////
 
 
 
